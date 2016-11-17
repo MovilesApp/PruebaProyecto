@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Disfrutando Puebla</string>
+    <string name="action_favorite">SEND</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_child">MyChildActivity</string>
+    <string name="action_search">Search</string>
+    <string name="share">Share</string>
+</resources>
